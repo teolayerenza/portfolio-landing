@@ -8,7 +8,7 @@ export function Projects() {
   const { t } = useLanguage();
 
   return (
-    <section id="proyectos" className="bg-grid-dark py-24 px-6 md:px-10">
+    <section id="proyectos" className="py-24 px-6 md:px-10">
       <div className="max-w-7xl mx-auto">
         <p className="text-sm tracking-wide text-light/50 mb-4">{t.projects.label}</p>
         <Reveal>

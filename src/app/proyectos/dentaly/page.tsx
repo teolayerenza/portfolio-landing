@@ -14,7 +14,7 @@ export default function DentalyCaseStudy() {
   return (
     <>
       <Header />
-      <main className="flex-1 pt-16 bg-grid-dark">
+      <main className="flex-1 pt-16">
         <div className="max-w-4xl mx-auto px-6 md:px-10 py-20">
           <Link href="/#proyectos" className="text-sm text-light/50 hover:text-accent transition-colors">
             {study.backLabel}

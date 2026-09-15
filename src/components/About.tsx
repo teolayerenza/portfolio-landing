@@ -8,7 +8,7 @@ export function About() {
   const videoSrc = locale === "es" ? "/video-es.mp4" : "/video-en.mp4";
 
   return (
-    <section className="bg-grid-light bg-light text-dark py-24 px-6 md:px-10">
+    <section className="bg-light text-dark py-24 px-6 md:px-10">
       <div className="max-w-7xl mx-auto grid grid-cols-1 lg:grid-cols-12 gap-12 items-start">
         <div className="lg:col-span-7">
           <p className="text-sm tracking-wide text-dark/50 mb-4">{t.about.label}</p>

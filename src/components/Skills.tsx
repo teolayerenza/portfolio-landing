@@ -7,7 +7,7 @@ export function Skills() {
   const { t } = useLanguage();
 
   return (
-    <section id="skills" className="bg-grid-light bg-light text-dark py-24 px-6 md:px-10">
+    <section id="skills" className="bg-light text-dark py-24 px-6 md:px-10">
       <div className="max-w-7xl mx-auto">
         <p className="text-sm tracking-wide text-dark/50 mb-4">{t.skills.label}</p>
         <Reveal>

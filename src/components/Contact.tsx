@@ -8,7 +8,7 @@ export function Contact() {
   const { t } = useLanguage();
 
   return (
-    <section id="contacto" className="bg-grid-dark py-28 px-6 md:px-10">
+    <section id="contacto" className="py-28 px-6 md:px-10">
       <div className="max-w-7xl mx-auto grid grid-cols-1 lg:grid-cols-12 gap-10 items-end">
         <div className="lg:col-span-8">
           <p className="text-sm tracking-wide text-light/50 mb-4">{t.contact.label}</p>

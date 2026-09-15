@@ -89,7 +89,7 @@ export const content: Record<Locale, SiteContent> = {
     hero: {
       greeting: "Hola, soy",
       name: "Teo Layer",
-      role: "Systems Engineering Student & Full-Stack Developer",
+      role: "Estudiante de Ingeniería en Software & Desarrollador Full-Stack",
       tagline:
         "Construyo software funcional, escalable y bien estructurado. De la arquitectura al último detalle de la interfaz.",
       ctaResume: "Descargar CV",
@@ -182,7 +182,7 @@ export const content: Record<Locale, SiteContent> = {
     hero: {
       greeting: "Hi, I'm",
       name: "Teo Layer",
-      role: "Systems Engineering Student & Full-Stack Developer",
+      role: "Software Engineering Student & Full-Stack Developer",
       tagline:
         "I build functional, scalable, well-structured software — from the architecture down to the last interface detail.",
       ctaResume: "Download Resume",

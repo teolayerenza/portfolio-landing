@@ -7,7 +7,7 @@ export function Experience() {
   const { t } = useLanguage();
 
   return (
-    <section className="bg-grid-dark py-24 px-6 md:px-10">
+    <section className="py-24 px-6 md:px-10">
       <div className="max-w-7xl mx-auto">
         <p className="text-sm tracking-wide text-light/50 mb-4">{t.experience.label}</p>
         <Reveal>
